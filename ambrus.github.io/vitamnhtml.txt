@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vitamins</title>
+  </head>
+  <body>
+    <h1>Vitamins</h1>
+    <p>Vitamins are essential nutrients that our bodies need to function properly.</p>
+    <h2>Types of Vitamins</h2>
+    <ul>
+      <li>Vitamin A</li>
+      <img src="vitamin-a.jpg" alt="Vitamin A">
+      <li>Vitamin B</li>
+      <img src="vitamin-b.jpg" alt="Vitamin B">
+      <li>Vitamin C</li>
+      <img src="vitamin-c.jpg" alt="Vitamin C">
+      <li>Vitamin D</li>
+      <img src="vitamin-d.jpg" alt="Vitamin D">
+      <li>Vitamin E</li>
+      <img src="vitamin-e.jpg" alt="Vitamin E">
+      <li>Vitamin K</li>
+      <img src="vitamin-k.jpg" alt="Vitamin K">
+    </ul>
+    <p>Each type of vitamin plays a different role in maintaining our health.</p>
+  </body>
+</html>
